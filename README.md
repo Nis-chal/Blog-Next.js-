@@ -16,6 +16,9 @@ Managing your blog has never been easier with BlogHub. You have full control ove
 
 BlogHub understands the importance of personalization. With its theme customization feature, you can transform the look and feel of your blog effortlessly. Choose from a range of visually appealing themes, each offering a unique style and layout. Whether you prefer a clean and minimalistic design or a bold and vibrant aesthetic, BlogHub allows you to tailor your blog's appearance to reflect your personality and captivate your readers.
 
+<img src ="public/screenshots/black.png" width="50%"></img>
+<img src ="public/screenshots/white.png" width="50%"></img>
+
 ### 4. Contact Page:
 
 Building a strong connection with your audience is crucial for any blogger. BlogHub includes a dedicated contact page that makes it easy for your readers to reach out to you. Share your contact details, social media links, or any preferred method of communication, enabling your audience to engage with you directly. Foster meaningful interactions and cultivate a thriving blogging community.
