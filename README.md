@@ -7,10 +7,16 @@ Welcome to BlogHub, a dynamic blogging platform that empowers you to create, man
 ### 1. User-Friendly Blogging Interface:
 
 BlogHub offers a user-friendly interface that makes creating and managing blog posts a breeze. With its intuitive editor, you can compose engaging articles, format text, insert multimedia elements, and unleash your creativity. The interface is designed to provide a seamless writing experience, allowing you to focus on crafting exceptional content.
+<img src ="public/screenshots/blogs.png" width="50%"></img>
+<img src ="public/screenshots/blogdetail.png" width="50%"></img>
+
+<img src ="public/screenshots/category.png" width="50%"></img>
+<img src ="public/screenshots/about.png" width="50%"></img>
 
 ### 2. Effortless Blog Management:
 
 Managing your blog has never been easier with BlogHub. You have full control over your content, enabling you to delete or update blog posts whenever needed. Whether you want to refine your existing articles or remove outdated content, BlogHub offers a straightforward management system that keeps your blog up to date.
+<img src ="public/screenshots/blogform.png" width="100%"></img>
 
 ### 3. Theme Customization:
 
